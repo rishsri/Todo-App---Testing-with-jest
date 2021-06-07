@@ -17,3 +17,4 @@ test('should test TodoLists component with list of todos', () => {
     )
     expect(wrapper).toMatchSnapshot();
 })
+
